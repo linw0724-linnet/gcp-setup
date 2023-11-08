@@ -1,8 +1,8 @@
 # Introduction
 > [!NOTE]
-> This instruction set assumes that you have already successfully completed a clean install of Ubuntu Server on your host machine
+> This instruction set assumes that you have already successfully completed a clean install of Ubuntu Server on your virtual machine
 
-This instruction set will install the Nano text editor on your host machine and update packages
+This instruction set will install the Nano text editor on your virtual machine and update packages
 
 -----
 # Instructions
@@ -14,4 +14,4 @@ sudo apt upgrade
 ```
 -----
 # Conclusion
-Nano text editor is now installed on your host machine and packages are also updated
+Nano text editor is now installed on your virtual machine and packages are also updated
