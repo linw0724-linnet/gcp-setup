@@ -1,10 +1,10 @@
 # Introduction
 > [!NOTE]
-> This instruction set assumes that you have already successfully completed a clean install of Ubuntu Server on your host machine
+> This instruction set assumes that you have already successfully completed a clean install of Ubuntu Server on your virtual machine
 
 This instruction set will install Docker on your host machine to allow for installation of Docker containers
 
-Benefits of running programs in Docker containers include the ability to easily backup/update/restore running programs quickly without affecting the rest of the host machine
+Benefits of running programs in Docker containers include the ability to easily backup/update/restore running programs quickly without affecting the rest of the virtual machine
 
 -----
 # Instructions
@@ -40,4 +40,4 @@ sudo apt install docker-compose
 ```
 -----
 # Conclusion
-Docker is now installed on your host machine and is ready to accept installations of containers
+Docker is now installed on your virtual machine and is ready to accept installations of containers
