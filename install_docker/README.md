@@ -2,7 +2,7 @@
 > [!NOTE]
 > This instruction set assumes that you have already successfully completed a clean install of Ubuntu Server on your virtual machine
 
-This instruction set will install Docker on your host machine to allow for installation of Docker containers
+This instruction set will install Docker on your virtual machine to allow for installation of Docker containers
 
 Benefits of running programs in Docker containers include the ability to easily backup/update/restore running programs quickly without affecting the rest of the virtual machine
 
