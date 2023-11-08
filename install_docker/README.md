@@ -1,10 +1,10 @@
 # Introduction
 > [!NOTE]
-> This instruction set assumes that you have already successfully completed a clean install of Ubuntu Server on your virtual machine
+> This instruction set assumes that you have already successfully completed a clean install of Ubuntu Server on your VM on GCP
 
-This instruction set will install Docker on your virtual machine to allow for installation of Docker containers
+This instruction set will install Docker on your VM on GCP to allow for installation of Docker containers
 
-Benefits of running programs in Docker containers include the ability to easily backup/update/restore running programs quickly without affecting the rest of the virtual machine
+Benefits of running programs in Docker containers include the ability to easily backup/update/restore running programs quickly without affecting the rest of the VM
 
 -----
 # Instructions
@@ -40,4 +40,4 @@ sudo apt install docker-compose
 ```
 -----
 # Conclusion
-Docker is now installed on your virtual machine and is ready to accept installations of containers
+Docker is now installed on your VM on GCP and is ready to accept installations of containers

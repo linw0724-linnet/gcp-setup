@@ -1,13 +1,13 @@
 # Introduction
 > [!NOTE]
-> This instruction set assumes that you have already successfully completed a clean install of Ubuntu Server on your virtual machine
+> This instruction set assumes that you have already successfully completed a clean install of Ubuntu Server on your VM on GCP
 
-This instruction set will install Git on your virtual machine and allow for pulling files from Github repositories
+This instruction set will install Git on your VM on GCP and allow for pulling files from Github repositories
 
 -----
 # Instructions
 ## Check Git version
-* Check the version of Git installed on your virtual machine
+* Check the version of Git installed on your VM
 ```
 git --version
 ```
@@ -24,7 +24,7 @@ sudo apt update
 ```
 sudo apt install git
 ```
-* Check the version of Git installed on your virtual machine
+* Check the version of Git installed on your VM
 ```
 git --version
 ```
@@ -34,4 +34,4 @@ git version 2.25.1
 ```
 -----
 # Conclusion
-Git is now set up on your virtual machine and you are ready to pull files from Github
+Git is now set up on your VM on GCP and you are ready to pull files from Github
