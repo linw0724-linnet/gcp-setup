@@ -1,6 +1,6 @@
 # Introduction
 > [!NOTE]
-> This instruction set assumes that you have already successfully completed a clean install of Ubuntu Server on your VM on GCP
+> This instruction set assumes that you have already successfully completed a clean install of Ubuntu Server on your VM on GCP.
 
 This instruction set will install Discourse inside a Docker container on your VM on GCP.
 
