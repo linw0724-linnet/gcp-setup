@@ -11,10 +11,8 @@ This installation of Discourse will utilize a Bucket on GCP to store image/file 
 -----
 # Instructions
 
-* Needs code
-```
-Needs code
-```
+> [!WARNING]
+> Further instructions needed.
 -----
 # Conclusion
 Discourse is now installed on your VM on GCP and is ready for further configuration via the web UI.
