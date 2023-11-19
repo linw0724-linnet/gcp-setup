@@ -19,7 +19,7 @@ This installation of Snipe-It will utilize a Bucket on GCP to store image/file u
 > Currently figuring out how to enable barcode generation using GD Library or Imagemagick.
 
 > [!WARNING]
-> Associated `docker-compose.yml`, `my_env_file`, and `my_standalone_env_file` file content needs to be updated and verified.
+> Associated `docker-compose.yml`, `my_env_file`, and `my_standalone_env_file` file content and file names need to be updated and verified.
 -----
 # Instructions
 
