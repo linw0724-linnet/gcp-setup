@@ -6,7 +6,7 @@ This instruction set will install the Nano text editor on your VM on GCP and upd
 
 -----
 # Instructions
-* Install Nano and update packages.
+* Install Nano and update packages:
 ```
 sudo apt install nano
 sudo apt update
