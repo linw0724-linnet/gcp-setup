@@ -7,7 +7,13 @@ This instruction set will install Snipe-It inside a Docker container on your VM 
 This installation of Snipe-It will utilize a Bucket on GCP to store image/file uploads and utilize Mailgun for e-mail functions.
 
 > [!NOTE]
-> Currently figuring out how to incorporate an externally run mySQL instance on GCP with the Docker instance. This will allow the storage drive capacity of the VM to stay the same and the mySQL instance has the feature to automatically increase the database storage size (this will minimize maintenance as the database size increases).
+> Currently figuring out how to incorporate an externally run mySQL instance on GCP with the Docker instance instead of on AWS or Azure. This will allow the storage drive capacity of the VM to stay the same and the mySQL instance has the feature to automatically increase the database storage size (this will minimize maintenance as the database size increases).
+
+> [!NOTE]
+> Currently figuring out how to use GCP S3 for image/file uploads instead of on AWS or Azure.
+
+> [!NOTE]
+> Currently figuring out how to incorporate Mailgun for e-mail functionality.
 -----
 # Instructions
 
