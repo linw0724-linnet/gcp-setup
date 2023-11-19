@@ -1,0 +1,7 @@
+# Mysql Parameters
+MYSQL_PORT_3306_TCP_ADDR=XXX.XXX.XXX.XXX
+MYSQL_PORT_3306_TCP_PORT=3306
+
+MYSQL_DATABASE=snipe_it
+MYSQL_USER=snipe_it_db_user
+MYSQL_PASSWORD=snipe_it_db_user_password
